@@ -1,0 +1,2 @@
+let minhaMesa = ['(voce nao precisa saber)', 'esqueci o nome do primeiro', 'o outro eu acho que comecava com J']
+console.log(`meu nome e ${minhaMesa[0]}, e meus a(ini)migos sao ${minhaMesa[1]}, e ${minhaMesa[2]}`)
