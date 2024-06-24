@@ -145,3 +145,4 @@ function editar(){
 
 
 }
+console.log(JKJKCDKJ)
