@@ -24,3 +24,4 @@ echo 'bem vindos a estacao espacial' > boasvindas.txt
 cp boasvindas.txt laboratorio
 cd laboratorio
 echo 'bem vindos a estacao espacial!este e o laboratorio! > boasvindas.txt
+wanderlei é guei
